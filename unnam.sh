@@ -6,4 +6,3 @@ sudo apt upgrade
 sudo apt-get install cheese -y
 sudo apt-get install fonts-unfonts-core ibus-hangul -y
 pip3 install opencv-python opencv-contrib-python
-sudo rpi-update
